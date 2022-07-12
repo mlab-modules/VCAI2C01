@@ -1,0 +1,1104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export version="E">
+  <design>
+    <source>/github/workspace/hw/sch_pcb/VCAI2C01A.kicad_sch</source>
+    <date>Tue Jul 12 09:53:26 2022</date>
+    <tool>Eeschema 6.0.4-6f826c9f35~116~ubuntu20.04.1</tool>
+    <sheet number="1" name="/" tstamps="/">
+      <title_block>
+        <title>VCAI2C01</title>
+        <company>MLAB.cz</company>
+        <rev/>
+        <date/>
+        <source>VCAI2C01A.kicad_sch</source>
+        <comment number="1" value="Voltage and current AD converter  with I2C"/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+  </design>
+  <components>
+    <comp ref="C1">
+      <value>10nF</value>
+      <footprint>Mlab_R:SMD-0805</footprint>
+      <libsource lib="VCAI2C01A-rescue" part="C" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="VCAI2C01A.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000057df9ea7</tstamps>
+    </comp>
+    <comp ref="C2">
+      <value>100nF</value>
+      <footprint>Mlab_R:SMD-0805</footprint>
+      <libsource lib="VCAI2C01A-rescue" part="C" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="VCAI2C01A.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000057d26aa8</tstamps>
+    </comp>
+    <comp ref="C3">
+      <value>10uF</value>
+      <footprint>Mlab_R:SMD-0805</footprint>
+      <libsource lib="VCAI2C01A-rescue" part="C" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="VCAI2C01A.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000057d26aee</tstamps>
+    </comp>
+    <comp ref="C4">
+      <value>10nF</value>
+      <footprint>Mlab_R:SMD-0805</footprint>
+      <libsource lib="VCAI2C01A-rescue" part="C" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="VCAI2C01A.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000057e0358b</tstamps>
+    </comp>
+    <comp ref="C5">
+      <value>100nF</value>
+      <footprint>Mlab_R:SMD-0805</footprint>
+      <libsource lib="VCAI2C01A-rescue" part="C" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="VCAI2C01A.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000057e155d3</tstamps>
+    </comp>
+    <comp ref="C6">
+      <value>10nF</value>
+      <footprint>Mlab_R:SMD-0805</footprint>
+      <libsource lib="VCAI2C01A-rescue" part="C" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="VCAI2C01A.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000057dfd96c</tstamps>
+    </comp>
+    <comp ref="C7">
+      <value>10nF</value>
+      <footprint>Mlab_R:SMD-0805</footprint>
+      <libsource lib="VCAI2C01A-rescue" part="C" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="VCAI2C01A.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000057e035d5</tstamps>
+    </comp>
+    <comp ref="C8">
+      <value>10nF</value>
+      <footprint>Mlab_R:SMD-0805</footprint>
+      <libsource lib="VCAI2C01A-rescue" part="C" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="VCAI2C01A.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000057e04e89</tstamps>
+    </comp>
+    <comp ref="C9">
+      <value>10nF</value>
+      <footprint>Mlab_R:SMD-0805</footprint>
+      <libsource lib="VCAI2C01A-rescue" part="C" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="VCAI2C01A.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000057e04f18</tstamps>
+    </comp>
+    <comp ref="C10">
+      <value>10nF</value>
+      <footprint>Mlab_R:SMD-0805</footprint>
+      <libsource lib="VCAI2C01A-rescue" part="C" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="VCAI2C01A.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000057e04ed3</tstamps>
+    </comp>
+    <comp ref="C11">
+      <value>10nF</value>
+      <footprint>Mlab_R:SMD-0805</footprint>
+      <libsource lib="VCAI2C01A-rescue" part="C" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="VCAI2C01A.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000057e04f62</tstamps>
+    </comp>
+    <comp ref="C12">
+      <value>100nF</value>
+      <footprint>Mlab_R:SMD-0805</footprint>
+      <libsource lib="VCAI2C01A-rescue" part="C" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="VCAI2C01A.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000057dfe0e2</tstamps>
+    </comp>
+    <comp ref="D1">
+      <value>BZV55C</value>
+      <footprint>Mlab_D:Diode-MiniMELF_Standard</footprint>
+      <libsource lib="VCAI2C01A-rescue" part="DIODE" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="VCAI2C01A.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000057d26757</tstamps>
+    </comp>
+    <comp ref="D2">
+      <value>BAS85</value>
+      <footprint>Mlab_D:MiniMELF_Standard</footprint>
+      <libsource lib="VCAI2C01A-rescue" part="D_Schottky" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="VCAI2C01A.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000057df9ef6</tstamps>
+    </comp>
+    <comp ref="D3">
+      <value>BAS85</value>
+      <footprint>Mlab_D:MiniMELF_Standard</footprint>
+      <libsource lib="VCAI2C01A-rescue" part="D_Schottky" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="VCAI2C01A.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000057e03591</tstamps>
+    </comp>
+    <comp ref="D4">
+      <value>BAS85</value>
+      <footprint>Mlab_D:MiniMELF_Standard</footprint>
+      <libsource lib="VCAI2C01A-rescue" part="D_Schottky" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="VCAI2C01A.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000057df9f75</tstamps>
+    </comp>
+    <comp ref="D5">
+      <value>BAS85</value>
+      <footprint>Mlab_D:MiniMELF_Standard</footprint>
+      <libsource lib="VCAI2C01A-rescue" part="D_Schottky" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="VCAI2C01A.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000057e03597</tstamps>
+    </comp>
+    <comp ref="D6">
+      <value>BAS85</value>
+      <footprint>Mlab_D:MiniMELF_Standard</footprint>
+      <libsource lib="VCAI2C01A-rescue" part="D_Schottky" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="VCAI2C01A.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000057e04e8f</tstamps>
+    </comp>
+    <comp ref="D7">
+      <value>BAS85</value>
+      <footprint>Mlab_D:MiniMELF_Standard</footprint>
+      <libsource lib="VCAI2C01A-rescue" part="D_Schottky" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="VCAI2C01A.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000057e04f1e</tstamps>
+    </comp>
+    <comp ref="D8">
+      <value>BAS85</value>
+      <footprint>Mlab_D:MiniMELF_Standard</footprint>
+      <libsource lib="VCAI2C01A-rescue" part="D_Schottky" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="VCAI2C01A.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000057e04e95</tstamps>
+    </comp>
+    <comp ref="D9">
+      <value>BAS85</value>
+      <footprint>Mlab_D:MiniMELF_Standard</footprint>
+      <libsource lib="VCAI2C01A-rescue" part="D_Schottky" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="VCAI2C01A.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000057e04f24</tstamps>
+    </comp>
+    <comp ref="J2">
+      <value>CONN_2</value>
+      <footprint>Mlab_Pin_Headers:Straight_1x02</footprint>
+      <libsource lib="VCAI2C01A-rescue" part="CONN_2" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="VCAI2C01A.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000057dfa909</tstamps>
+    </comp>
+    <comp ref="J3">
+      <value>JUMP_2x1</value>
+      <footprint>Mlab_Pin_Headers:Straight_2x01</footprint>
+      <libsource lib="VCAI2C01A-rescue" part="JUMP_2x1" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="VCAI2C01A.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000057e18cb4</tstamps>
+    </comp>
+    <comp ref="J4">
+      <value>CONN_2</value>
+      <footprint>Mlab_Pin_Headers:Straight_1x02</footprint>
+      <libsource lib="VCAI2C01A-rescue" part="CONN_2" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="VCAI2C01A.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000057e035a3</tstamps>
+    </comp>
+    <comp ref="J5">
+      <value>JUMP_2x1</value>
+      <footprint>Mlab_Pin_Headers:Straight_1x02</footprint>
+      <libsource lib="VCAI2C01A-rescue" part="JUMP_2x1" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="VCAI2C01A.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000057e18c0c</tstamps>
+    </comp>
+    <comp ref="J6">
+      <value>CONN_2</value>
+      <footprint>Mlab_Pin_Headers:Straight_1x02</footprint>
+      <libsource lib="VCAI2C01A-rescue" part="CONN_2" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="VCAI2C01A.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000057e04ea1</tstamps>
+    </comp>
+    <comp ref="J7">
+      <value>JUMP_2x1</value>
+      <footprint>Mlab_Pin_Headers:Straight_1x02</footprint>
+      <libsource lib="VCAI2C01A-rescue" part="JUMP_2x1" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="VCAI2C01A.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000057e01956</tstamps>
+    </comp>
+    <comp ref="J8">
+      <value>CONN_2</value>
+      <footprint>Mlab_Pin_Headers:Straight_1x02</footprint>
+      <libsource lib="VCAI2C01A-rescue" part="CONN_2" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="VCAI2C01A.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000057e04f30</tstamps>
+    </comp>
+    <comp ref="J9">
+      <value>JUMP_2x1</value>
+      <footprint>Mlab_Pin_Headers:Straight_1x02</footprint>
+      <libsource lib="VCAI2C01A-rescue" part="JUMP_2x1" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="VCAI2C01A.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000057e02579</tstamps>
+    </comp>
+    <comp ref="J10">
+      <value>JUMP2_2x1</value>
+      <footprint>Mlab_Pin_Headers:Straight_2x01</footprint>
+      <libsource lib="VCAI2C01A-rescue" part="JUMP2_2x1" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="VCAI2C01A.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000057e2013f</tstamps>
+    </comp>
+    <comp ref="J11">
+      <value>JUMP2_2x1</value>
+      <footprint>Mlab_Pin_Headers:Straight_2x01</footprint>
+      <libsource lib="VCAI2C01A-rescue" part="JUMP2_2x1" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="VCAI2C01A.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000057e20487</tstamps>
+    </comp>
+    <comp ref="J13">
+      <value>JUMP_5X2</value>
+      <footprint>Mlab_Pin_Headers:Straight_2x05</footprint>
+      <libsource lib="VCAI2C01A-rescue" part="JUMP_5X2" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="VCAI2C01A.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000057e1682d</tstamps>
+    </comp>
+    <comp ref="J14">
+      <value>JUMP_2x1</value>
+      <footprint>Mlab_Pin_Headers:Straight_1x02</footprint>
+      <libsource lib="VCAI2C01A-rescue" part="JUMP_2x1" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="VCAI2C01A.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000057e12e83</tstamps>
+    </comp>
+    <comp ref="J15">
+      <value>JUMP_2x1</value>
+      <footprint>Mlab_Pin_Headers:Straight_1x02</footprint>
+      <libsource lib="VCAI2C01A-rescue" part="JUMP_2x1" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="VCAI2C01A.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000057e06d8b</tstamps>
+    </comp>
+    <comp ref="J16">
+      <value>JUMP_2x1</value>
+      <footprint>Mlab_Pin_Headers:Straight_1x02</footprint>
+      <libsource lib="VCAI2C01A-rescue" part="JUMP_2x1" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="VCAI2C01A.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000057e07760</tstamps>
+    </comp>
+    <comp ref="J17">
+      <value>JUMP_2x1</value>
+      <footprint>Mlab_Pin_Headers:Straight_1x02</footprint>
+      <libsource lib="VCAI2C01A-rescue" part="JUMP_2x1" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="VCAI2C01A.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000057e14a63</tstamps>
+    </comp>
+    <comp ref="J18">
+      <value>JUMP_2x1</value>
+      <footprint>Mlab_Pin_Headers:Straight_1x02</footprint>
+      <libsource lib="VCAI2C01A-rescue" part="JUMP_2x1" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="VCAI2C01A.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000057e0916a</tstamps>
+    </comp>
+    <comp ref="J19">
+      <value>JUMP_2x1</value>
+      <footprint>Mlab_Pin_Headers:Straight_1x02</footprint>
+      <libsource lib="VCAI2C01A-rescue" part="JUMP_2x1" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="VCAI2C01A.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000057e09722</tstamps>
+    </comp>
+    <comp ref="J20">
+      <value>JUMP_2x1</value>
+      <footprint>Mlab_Pin_Headers:Straight_1x02</footprint>
+      <libsource lib="VCAI2C01A-rescue" part="JUMP_2x1" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="VCAI2C01A.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000057e16891</tstamps>
+    </comp>
+    <comp ref="J21">
+      <value>JUMP_2x1</value>
+      <footprint>Mlab_Pin_Headers:Straight_1x02</footprint>
+      <libsource lib="VCAI2C01A-rescue" part="JUMP_2x1" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="VCAI2C01A.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000057e0ac34</tstamps>
+    </comp>
+    <comp ref="J22">
+      <value>JUMP_2x1</value>
+      <footprint>Mlab_Pin_Headers:Straight_1x02</footprint>
+      <libsource lib="VCAI2C01A-rescue" part="JUMP_2x1" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="VCAI2C01A.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000057e0b0b5</tstamps>
+    </comp>
+    <comp ref="J23">
+      <value>JUMP_2x1</value>
+      <footprint>Mlab_Pin_Headers:Straight_1x02</footprint>
+      <libsource lib="VCAI2C01A-rescue" part="JUMP_2x1" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="VCAI2C01A.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000057e15b94</tstamps>
+    </comp>
+    <comp ref="L1">
+      <value>BLM21PG300SN1D</value>
+      <footprint>Mlab_R:SMD-0805</footprint>
+      <libsource lib="VCAI2C01A-rescue" part="INDUCTOR_SMALL" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="VCAI2C01A.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000057e948dc</tstamps>
+    </comp>
+    <comp ref="M1">
+      <value>HOLE</value>
+      <footprint>Mlab_Mechanical:MountingHole_3mm</footprint>
+      <libsource lib="VCAI2C01A-rescue" part="HOLE" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="VCAI2C01A.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000057d299a2</tstamps>
+    </comp>
+    <comp ref="M2">
+      <value>HOLE</value>
+      <footprint>Mlab_Mechanical:MountingHole_3mm</footprint>
+      <libsource lib="VCAI2C01A-rescue" part="HOLE" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="VCAI2C01A.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000057d2a387</tstamps>
+    </comp>
+    <comp ref="M3">
+      <value>HOLE</value>
+      <footprint>Mlab_Mechanical:MountingHole_3mm</footprint>
+      <libsource lib="VCAI2C01A-rescue" part="HOLE" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="VCAI2C01A.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000057d2a075</tstamps>
+    </comp>
+    <comp ref="M4">
+      <value>HOLE</value>
+      <footprint>Mlab_Mechanical:MountingHole_3mm</footprint>
+      <libsource lib="VCAI2C01A-rescue" part="HOLE" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="VCAI2C01A.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000057d2a395</tstamps>
+    </comp>
+    <comp ref="R1">
+      <value>249R</value>
+      <footprint>Mlab_R:SMD-1206</footprint>
+      <libsource lib="VCAI2C01A-rescue" part="R" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="VCAI2C01A.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000057dfa8b7</tstamps>
+    </comp>
+    <comp ref="R2">
+      <value>249R</value>
+      <footprint>Mlab_R:SMD-1206</footprint>
+      <libsource lib="VCAI2C01A-rescue" part="R" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="VCAI2C01A.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000057e0359d</tstamps>
+    </comp>
+    <comp ref="R3">
+      <value>180K</value>
+      <footprint>Mlab_R:SMD-0805</footprint>
+      <libsource lib="VCAI2C01A-rescue" part="R" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="VCAI2C01A.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000057df9ba4</tstamps>
+    </comp>
+    <comp ref="R4">
+      <value>180K</value>
+      <footprint>Mlab_R:SMD-0805</footprint>
+      <libsource lib="VCAI2C01A-rescue" part="R" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="VCAI2C01A.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000057df9c1f</tstamps>
+    </comp>
+    <comp ref="R5">
+      <value>180K</value>
+      <footprint>Mlab_R:SMD-0805</footprint>
+      <libsource lib="VCAI2C01A-rescue" part="R" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="VCAI2C01A.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000057e03579</tstamps>
+    </comp>
+    <comp ref="R6">
+      <value>180K</value>
+      <footprint>Mlab_R:SMD-0805</footprint>
+      <libsource lib="VCAI2C01A-rescue" part="R" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="VCAI2C01A.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000057e0357f</tstamps>
+    </comp>
+    <comp ref="R7">
+      <value>33K</value>
+      <footprint>Mlab_R:SMD-0805</footprint>
+      <libsource lib="VCAI2C01A-rescue" part="R" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="VCAI2C01A.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000057df9e29</tstamps>
+    </comp>
+    <comp ref="R8">
+      <value>33K</value>
+      <footprint>Mlab_R:SMD-0805</footprint>
+      <libsource lib="VCAI2C01A-rescue" part="R" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="VCAI2C01A.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000057e03585</tstamps>
+    </comp>
+    <comp ref="R9">
+      <value>33K</value>
+      <footprint>Mlab_R:SMD-0805</footprint>
+      <libsource lib="VCAI2C01A-rescue" part="R" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="VCAI2C01A.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000057dfd8b1</tstamps>
+    </comp>
+    <comp ref="R10">
+      <value>33K</value>
+      <footprint>Mlab_R:SMD-0805</footprint>
+      <libsource lib="VCAI2C01A-rescue" part="R" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="VCAI2C01A.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000057e035cf</tstamps>
+    </comp>
+    <comp ref="R11">
+      <value>249R</value>
+      <footprint>Mlab_R:SMD-1206</footprint>
+      <libsource lib="VCAI2C01A-rescue" part="R" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="VCAI2C01A.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000057e04e9b</tstamps>
+    </comp>
+    <comp ref="R12">
+      <value>249R</value>
+      <footprint>Mlab_R:SMD-1206</footprint>
+      <libsource lib="VCAI2C01A-rescue" part="R" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="VCAI2C01A.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000057e04f2a</tstamps>
+    </comp>
+    <comp ref="R13">
+      <value>180K</value>
+      <footprint>Mlab_R:SMD-0805</footprint>
+      <libsource lib="VCAI2C01A-rescue" part="R" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="VCAI2C01A.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000057e04e77</tstamps>
+    </comp>
+    <comp ref="R14">
+      <value>180K</value>
+      <footprint>Mlab_R:SMD-0805</footprint>
+      <libsource lib="VCAI2C01A-rescue" part="R" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="VCAI2C01A.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000057e04e7d</tstamps>
+    </comp>
+    <comp ref="R15">
+      <value>180K</value>
+      <footprint>Mlab_R:SMD-0805</footprint>
+      <libsource lib="VCAI2C01A-rescue" part="R" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="VCAI2C01A.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000057e04f06</tstamps>
+    </comp>
+    <comp ref="R16">
+      <value>180K</value>
+      <footprint>Mlab_R:SMD-0805</footprint>
+      <libsource lib="VCAI2C01A-rescue" part="R" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="VCAI2C01A.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000057e04f0c</tstamps>
+    </comp>
+    <comp ref="R17">
+      <value>33K</value>
+      <footprint>Mlab_R:SMD-0805</footprint>
+      <libsource lib="VCAI2C01A-rescue" part="R" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="VCAI2C01A.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000057e04e83</tstamps>
+    </comp>
+    <comp ref="R18">
+      <value>33K</value>
+      <footprint>Mlab_R:SMD-0805</footprint>
+      <libsource lib="VCAI2C01A-rescue" part="R" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="VCAI2C01A.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000057e04f12</tstamps>
+    </comp>
+    <comp ref="R19">
+      <value>33K</value>
+      <footprint>Mlab_R:SMD-0805</footprint>
+      <libsource lib="VCAI2C01A-rescue" part="R" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="VCAI2C01A.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000057e04ecd</tstamps>
+    </comp>
+    <comp ref="R20">
+      <value>33K</value>
+      <footprint>Mlab_R:SMD-0805</footprint>
+      <libsource lib="VCAI2C01A-rescue" part="R" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="VCAI2C01A.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000057e04f5c</tstamps>
+    </comp>
+    <comp ref="R21">
+      <value>10K</value>
+      <footprint>Mlab_R:SMD-0805</footprint>
+      <libsource lib="VCAI2C01A-rescue" part="R" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="VCAI2C01A.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000057e20f2c</tstamps>
+    </comp>
+    <comp ref="R22">
+      <value>10K</value>
+      <footprint>Mlab_R:SMD-0805</footprint>
+      <libsource lib="VCAI2C01A-rescue" part="R" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="VCAI2C01A.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000057e21642</tstamps>
+    </comp>
+    <comp ref="R23">
+      <value>10K</value>
+      <footprint>Mlab_R:SMD-0805</footprint>
+      <libsource lib="VCAI2C01A-rescue" part="R" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="VCAI2C01A.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000057e1c677</tstamps>
+    </comp>
+    <comp ref="R24">
+      <value>10K</value>
+      <footprint>Mlab_R:SMD-0805</footprint>
+      <libsource lib="VCAI2C01A-rescue" part="R" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="VCAI2C01A.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000057e1cf0c</tstamps>
+    </comp>
+    <comp ref="U1">
+      <value>TLC27L2ID</value>
+      <footprint>Mlab_IO:SOIC-8_3.9x4.9mm_Pitch1.27mm</footprint>
+      <libsource lib="VCAI2C01A-rescue" part="TLC27L2ID" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="VCAI2C01A.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000057df8706 00000000-0000-0000-0000-000057df8591</tstamps>
+    </comp>
+    <comp ref="U2">
+      <value>TLC27L2ID</value>
+      <footprint>Mlab_IO:SOIC-8_3.9x4.9mm_Pitch1.27mm</footprint>
+      <libsource lib="VCAI2C01A-rescue" part="TLC27L2ID" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="VCAI2C01A.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000057e077f9 00000000-0000-0000-0000-000057e04e6b</tstamps>
+    </comp>
+    <comp ref="U3">
+      <value>MCP3424</value>
+      <footprint>Mlab_IO:SOIC-14</footprint>
+      <libsource lib="VCAI2C01A-rescue" part="MCP3424" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="VCAI2C01A.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000057e0aa2a</tstamps>
+    </comp>
+  </components>
+  <libparts>
+    <libpart lib="VCAI2C01A-rescue" part="C">
+      <footprints>
+        <fp>C?</fp>
+        <fp>C_????_*</fp>
+        <fp>C_????</fp>
+        <fp>SMD*_c</fp>
+        <fp>Capacitor*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">C</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="VCAI2C01A-rescue" part="CONN_2">
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">CONN_2</field>
+      </fields>
+      <pins>
+        <pin num="1" name="P1" type="passive"/>
+        <pin num="2" name="PM" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="VCAI2C01A-rescue" part="DIODE">
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">DIODE</field>
+      </fields>
+      <pins>
+        <pin num="1" name="K" type="input"/>
+        <pin num="2" name="A" type="input"/>
+      </pins>
+    </libpart>
+    <libpart lib="VCAI2C01A-rescue" part="D_Schottky">
+      <footprints>
+        <fp>D-Pak_TO252AA</fp>
+        <fp>Diode_*</fp>
+        <fp>*SingleDiode</fp>
+        <fp>*SingleDiode*</fp>
+        <fp>*_Diode_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">D_Schottky</field>
+      </fields>
+      <pins>
+        <pin num="1" name="K" type="passive"/>
+        <pin num="2" name="A" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="VCAI2C01A-rescue" part="HOLE">
+      <fields>
+        <field name="Reference">M</field>
+        <field name="Value">HOLE</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="input"/>
+      </pins>
+    </libpart>
+    <libpart lib="VCAI2C01A-rescue" part="INDUCTOR_SMALL">
+      <footprints>
+        <fp>Choke_*</fp>
+        <fp>*Coil*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">L</field>
+        <field name="Value">INDUCTOR_SMALL</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="input"/>
+        <pin num="2" name="2" type="input"/>
+      </pins>
+    </libpart>
+    <libpart lib="VCAI2C01A-rescue" part="JUMP2_2x1">
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">JUMP2_2x1</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="1" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="VCAI2C01A-rescue" part="JUMP_2x1">
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">JUMP_2x1</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="1" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="VCAI2C01A-rescue" part="JUMP_5X2">
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">JUMP_5X2</field>
+      </fields>
+      <pins>
+        <pin num="1" name="2" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+        <pin num="3" name="4" type="passive"/>
+        <pin num="4" name="4" type="passive"/>
+        <pin num="5" name="6" type="passive"/>
+        <pin num="6" name="6" type="passive"/>
+        <pin num="7" name="7" type="passive"/>
+        <pin num="8" name="7" type="passive"/>
+        <pin num="9" name="10" type="passive"/>
+        <pin num="10" name="10" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="VCAI2C01A-rescue" part="MCP3424">
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">MCP3424</field>
+      </fields>
+      <pins>
+        <pin num="1" name="CH1+" type="input"/>
+        <pin num="2" name="CH1-" type="input"/>
+        <pin num="3" name="CH2+" type="input"/>
+        <pin num="4" name="CH2-" type="input"/>
+        <pin num="5" name="VSS" type="input"/>
+        <pin num="6" name="VDD" type="input"/>
+        <pin num="7" name="SDA" type="input"/>
+        <pin num="8" name="SCL" type="input"/>
+        <pin num="9" name="ADR0" type="input"/>
+        <pin num="10" name="ADR1" type="input"/>
+        <pin num="11" name="CH3+" type="input"/>
+        <pin num="12" name="CH3-" type="input"/>
+        <pin num="13" name="CH4+" type="input"/>
+        <pin num="14" name="CH4-" type="input"/>
+      </pins>
+    </libpart>
+    <libpart lib="VCAI2C01A-rescue" part="R">
+      <footprints>
+        <fp>R_*</fp>
+        <fp>Resistor_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">R</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="VCAI2C01A-rescue" part="TLC27L2ID">
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">TLC27L2ID</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="output"/>
+        <pin num="2" name="-" type="input"/>
+        <pin num="3" name="+" type="input"/>
+        <pin num="4" name="GND" type="input"/>
+        <pin num="5" name="+" type="input"/>
+        <pin num="6" name="-" type="input"/>
+        <pin num="7" name="" type="output"/>
+        <pin num="8" name="VDD" type="input"/>
+      </pins>
+    </libpart>
+  </libparts>
+  <libraries/>
+  <nets>
+    <net code="1" name="/A0">
+      <node ref="J10" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="R22" pin="1" pintype="passive"/>
+      <node ref="U3" pin="9" pinfunction="ADR0" pintype="input"/>
+    </net>
+    <net code="2" name="/A1">
+      <node ref="J11" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="R21" pin="1" pintype="passive"/>
+      <node ref="U3" pin="10" pinfunction="ADR1" pintype="input"/>
+    </net>
+    <net code="3" name="/IN1+">
+      <node ref="J9" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="J9" pin="2" pinfunction="1" pintype="passive"/>
+      <node ref="R1" pin="1" pintype="passive"/>
+      <node ref="R4" pin="2" pintype="passive"/>
+    </net>
+    <net code="4" name="/IN1-">
+      <node ref="J2" pin="1" pinfunction="P1" pintype="passive"/>
+      <node ref="J7" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="J7" pin="2" pinfunction="1" pintype="passive"/>
+      <node ref="R3" pin="2" pintype="passive"/>
+    </net>
+    <net code="5" name="/IN1_2+">
+      <node ref="C1" pin="1" pintype="passive"/>
+      <node ref="D4" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="R4" pin="1" pintype="passive"/>
+      <node ref="R7" pin="2" pintype="passive"/>
+      <node ref="U1" pin="3" pinfunction="+" pintype="input"/>
+    </net>
+    <net code="6" name="/IN1_2-">
+      <node ref="C6" pin="2" pintype="passive"/>
+      <node ref="D2" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="R3" pin="1" pintype="passive"/>
+      <node ref="R9" pin="1" pintype="passive"/>
+      <node ref="U1" pin="2" pinfunction="-" pintype="input"/>
+    </net>
+    <net code="7" name="/IN2+">
+      <node ref="J16" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="J16" pin="2" pinfunction="1" pintype="passive"/>
+      <node ref="R2" pin="1" pintype="passive"/>
+      <node ref="R6" pin="2" pintype="passive"/>
+    </net>
+    <net code="8" name="/IN2-">
+      <node ref="J15" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="J15" pin="2" pinfunction="1" pintype="passive"/>
+      <node ref="J4" pin="1" pinfunction="P1" pintype="passive"/>
+      <node ref="R5" pin="2" pintype="passive"/>
+    </net>
+    <net code="9" name="/IN2_2+">
+      <node ref="C4" pin="1" pintype="passive"/>
+      <node ref="D5" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="R6" pin="1" pintype="passive"/>
+      <node ref="R8" pin="2" pintype="passive"/>
+      <node ref="U1" pin="5" pinfunction="+" pintype="input"/>
+    </net>
+    <net code="10" name="/IN2_2-">
+      <node ref="C7" pin="2" pintype="passive"/>
+      <node ref="D3" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="R10" pin="1" pintype="passive"/>
+      <node ref="R5" pin="1" pintype="passive"/>
+      <node ref="U1" pin="6" pinfunction="-" pintype="input"/>
+    </net>
+    <net code="11" name="/IN3+">
+      <node ref="J19" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="J19" pin="2" pinfunction="1" pintype="passive"/>
+      <node ref="R11" pin="1" pintype="passive"/>
+      <node ref="R14" pin="2" pintype="passive"/>
+    </net>
+    <net code="12" name="/IN3-">
+      <node ref="J18" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="J18" pin="2" pinfunction="1" pintype="passive"/>
+      <node ref="J6" pin="1" pinfunction="P1" pintype="passive"/>
+      <node ref="R13" pin="2" pintype="passive"/>
+    </net>
+    <net code="13" name="/IN3_2+">
+      <node ref="C8" pin="1" pintype="passive"/>
+      <node ref="D8" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="R14" pin="1" pintype="passive"/>
+      <node ref="R17" pin="2" pintype="passive"/>
+      <node ref="U2" pin="3" pinfunction="+" pintype="input"/>
+    </net>
+    <net code="14" name="/IN3_2-">
+      <node ref="C10" pin="2" pintype="passive"/>
+      <node ref="D6" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="R13" pin="1" pintype="passive"/>
+      <node ref="R19" pin="1" pintype="passive"/>
+      <node ref="U2" pin="2" pinfunction="-" pintype="input"/>
+    </net>
+    <net code="15" name="/IN4+">
+      <node ref="J22" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="J22" pin="2" pinfunction="1" pintype="passive"/>
+      <node ref="R12" pin="1" pintype="passive"/>
+      <node ref="R16" pin="2" pintype="passive"/>
+    </net>
+    <net code="16" name="/IN4-">
+      <node ref="J21" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="J21" pin="2" pinfunction="1" pintype="passive"/>
+      <node ref="J8" pin="1" pinfunction="P1" pintype="passive"/>
+      <node ref="R15" pin="2" pintype="passive"/>
+    </net>
+    <net code="17" name="/IN4_2+">
+      <node ref="C9" pin="1" pintype="passive"/>
+      <node ref="D9" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="R16" pin="1" pintype="passive"/>
+      <node ref="R18" pin="2" pintype="passive"/>
+      <node ref="U2" pin="5" pinfunction="+" pintype="input"/>
+    </net>
+    <net code="18" name="/IN4_2-">
+      <node ref="C11" pin="2" pintype="passive"/>
+      <node ref="D7" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="R15" pin="1" pintype="passive"/>
+      <node ref="R20" pin="1" pintype="passive"/>
+      <node ref="U2" pin="6" pinfunction="-" pintype="input"/>
+    </net>
+    <net code="19" name="/OUT1">
+      <node ref="C6" pin="1" pintype="passive"/>
+      <node ref="R9" pin="2" pintype="passive"/>
+      <node ref="U1" pin="1" pintype="output"/>
+      <node ref="U3" pin="1" pinfunction="CH1+" pintype="input"/>
+    </net>
+    <net code="20" name="/OUT2">
+      <node ref="C7" pin="1" pintype="passive"/>
+      <node ref="R10" pin="2" pintype="passive"/>
+      <node ref="U1" pin="7" pintype="output"/>
+      <node ref="U3" pin="3" pinfunction="CH2+" pintype="input"/>
+    </net>
+    <net code="21" name="/OUT3">
+      <node ref="C10" pin="1" pintype="passive"/>
+      <node ref="R19" pin="2" pintype="passive"/>
+      <node ref="U2" pin="1" pintype="output"/>
+      <node ref="U3" pin="11" pinfunction="CH3+" pintype="input"/>
+    </net>
+    <net code="22" name="/OUT4">
+      <node ref="C11" pin="1" pintype="passive"/>
+      <node ref="R20" pin="2" pintype="passive"/>
+      <node ref="U2" pin="7" pintype="output"/>
+      <node ref="U3" pin="13" pinfunction="CH4+" pintype="input"/>
+    </net>
+    <net code="23" name="/SCL">
+      <node ref="J13" pin="7" pinfunction="7" pintype="passive"/>
+      <node ref="J13" pin="8" pinfunction="7" pintype="passive"/>
+      <node ref="R24" pin="2" pintype="passive"/>
+      <node ref="U3" pin="8" pinfunction="SCL" pintype="input"/>
+    </net>
+    <net code="24" name="/SDA">
+      <node ref="J13" pin="3" pinfunction="4" pintype="passive"/>
+      <node ref="J13" pin="4" pinfunction="4" pintype="passive"/>
+      <node ref="R23" pin="2" pintype="passive"/>
+      <node ref="U3" pin="7" pinfunction="SDA" pintype="input"/>
+    </net>
+    <net code="25" name="GND">
+      <node ref="C1" pin="2" pintype="passive"/>
+      <node ref="C12" pin="2" pintype="passive"/>
+      <node ref="C2" pin="2" pintype="passive"/>
+      <node ref="C3" pin="2" pintype="passive"/>
+      <node ref="C4" pin="2" pintype="passive"/>
+      <node ref="C5" pin="2" pintype="passive"/>
+      <node ref="C8" pin="2" pintype="passive"/>
+      <node ref="C9" pin="2" pintype="passive"/>
+      <node ref="D1" pin="1" pinfunction="K" pintype="input"/>
+      <node ref="J13" pin="1" pinfunction="2" pintype="passive"/>
+      <node ref="J13" pin="10" pinfunction="10" pintype="passive"/>
+      <node ref="J13" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="J13" pin="9" pinfunction="10" pintype="passive"/>
+      <node ref="J14" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="J14" pin="2" pinfunction="1" pintype="passive"/>
+      <node ref="J17" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="J17" pin="2" pinfunction="1" pintype="passive"/>
+      <node ref="J20" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="J20" pin="2" pinfunction="1" pintype="passive"/>
+      <node ref="J23" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="J23" pin="2" pinfunction="1" pintype="passive"/>
+      <node ref="J3" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="J3" pin="2" pinfunction="1" pintype="passive"/>
+      <node ref="J5" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="J5" pin="2" pinfunction="1" pintype="passive"/>
+      <node ref="M1" pin="1" pintype="input"/>
+      <node ref="M2" pin="1" pintype="input"/>
+      <node ref="M3" pin="1" pintype="input"/>
+      <node ref="M4" pin="1" pintype="input"/>
+      <node ref="R17" pin="1" pintype="passive"/>
+      <node ref="R18" pin="1" pintype="passive"/>
+      <node ref="R21" pin="2" pintype="passive"/>
+      <node ref="R22" pin="2" pintype="passive"/>
+      <node ref="R7" pin="1" pintype="passive"/>
+      <node ref="R8" pin="1" pintype="passive"/>
+      <node ref="U1" pin="4" pinfunction="GND" pintype="input"/>
+      <node ref="U2" pin="4" pinfunction="GND" pintype="input"/>
+      <node ref="U3" pin="12" pinfunction="CH3-" pintype="input"/>
+      <node ref="U3" pin="14" pinfunction="CH4-" pintype="input"/>
+      <node ref="U3" pin="2" pinfunction="CH1-" pintype="input"/>
+      <node ref="U3" pin="4" pinfunction="CH2-" pintype="input"/>
+      <node ref="U3" pin="5" pinfunction="VSS" pintype="input"/>
+    </net>
+    <net code="26" name="Net-(C2-Pad1)">
+      <node ref="C2" pin="1" pintype="passive"/>
+      <node ref="C3" pin="1" pintype="passive"/>
+      <node ref="L1" pin="2" pinfunction="2" pintype="input"/>
+      <node ref="U3" pin="6" pinfunction="VDD" pintype="input"/>
+    </net>
+    <net code="27" name="Net-(J2-Pad2)">
+      <node ref="J2" pin="2" pinfunction="PM" pintype="passive"/>
+      <node ref="R1" pin="2" pintype="passive"/>
+    </net>
+    <net code="28" name="Net-(J4-Pad2)">
+      <node ref="J4" pin="2" pinfunction="PM" pintype="passive"/>
+      <node ref="R2" pin="2" pintype="passive"/>
+    </net>
+    <net code="29" name="Net-(J6-Pad2)">
+      <node ref="J6" pin="2" pinfunction="PM" pintype="passive"/>
+      <node ref="R11" pin="2" pintype="passive"/>
+    </net>
+    <net code="30" name="Net-(J8-Pad2)">
+      <node ref="J8" pin="2" pinfunction="PM" pintype="passive"/>
+      <node ref="R12" pin="2" pintype="passive"/>
+    </net>
+    <net code="31" name="VCC">
+      <node ref="C12" pin="1" pintype="passive"/>
+      <node ref="C5" pin="1" pintype="passive"/>
+      <node ref="D1" pin="2" pinfunction="A" pintype="input"/>
+      <node ref="D2" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D3" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D4" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D5" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D6" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D7" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D8" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D9" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="J10" pin="2" pinfunction="1" pintype="passive"/>
+      <node ref="J11" pin="2" pinfunction="1" pintype="passive"/>
+      <node ref="J13" pin="5" pinfunction="6" pintype="passive"/>
+      <node ref="J13" pin="6" pinfunction="6" pintype="passive"/>
+      <node ref="L1" pin="1" pinfunction="1" pintype="input"/>
+      <node ref="R23" pin="1" pintype="passive"/>
+      <node ref="R24" pin="1" pintype="passive"/>
+      <node ref="U1" pin="8" pinfunction="VDD" pintype="input"/>
+      <node ref="U2" pin="8" pinfunction="VDD" pintype="input"/>
+    </net>
+  </nets>
+</export>
