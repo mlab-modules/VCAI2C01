@@ -17,7 +17,9 @@
 4-channel 18-bit AD converter voltage and current for industrial sensors. Ranges: 0-5V, 0-10V, 0-20mA, 4-20mA, 0-40 mA.
 <!--- ELead ---> 
 
-![VCAI2C01A](doc/img/VCAI2C01A_QRcode.png) 
+![VCAI2C01A bottom](doc/gen/img/VCAI2C01A-bottom.png) 
+![VCAI2C01A bottom](doc/gen/img/VCAI2C01A-top.png) 
+
 
 
 <!--- Description --->
