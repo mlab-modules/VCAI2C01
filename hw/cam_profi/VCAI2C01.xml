@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <export version="E">
   <design>
-    <source>/github/workspace/hw/sch_pcb/VCAI2C01A.kicad_sch</source>
-    <date>Wed Oct 12 21:55:18 2022</date>
-    <tool>Eeschema 6.0.4-6f826c9f35~116~ubuntu20.04.1</tool>
+    <source>/github/workspace/hw/sch_pcb/VCAI2C01.kicad_sch</source>
+    <date>Thu Mar  2 11:46:42 2023</date>
+    <tool>Eeschema 6.0.10+dfsg-1~bpo11+1</tool>
     <sheet number="1" name="/" tstamps="/">
       <title_block>
         <title>VCAI2C01</title>
         <company>MLAB.cz</company>
         <rev/>
         <date/>
-        <source>VCAI2C01A.kicad_sch</source>
+        <source>VCAI2C01.kicad_sch</source>
         <comment number="1" value="Voltage and current AD converter  with I2C"/>
         <comment number="2" value=""/>
         <comment number="3" value=""/>
@@ -29,7 +29,7 @@
       <footprint>Mlab_R:SMD-0805</footprint>
       <libsource lib="VCAI2C01A-rescue" part="C" description=""/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="VCAI2C01A.kicad_sch"/>
+      <property name="Sheetfile" value="VCAI2C01.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-000057df9ea7</tstamps>
     </comp>
@@ -38,7 +38,7 @@
       <footprint>Mlab_R:SMD-0805</footprint>
       <libsource lib="VCAI2C01A-rescue" part="C" description=""/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="VCAI2C01A.kicad_sch"/>
+      <property name="Sheetfile" value="VCAI2C01.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-000057d26aa8</tstamps>
     </comp>
@@ -47,7 +47,7 @@
       <footprint>Mlab_R:SMD-0805</footprint>
       <libsource lib="VCAI2C01A-rescue" part="C" description=""/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="VCAI2C01A.kicad_sch"/>
+      <property name="Sheetfile" value="VCAI2C01.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-000057d26aee</tstamps>
     </comp>
@@ -56,7 +56,7 @@
       <footprint>Mlab_R:SMD-0805</footprint>
       <libsource lib="VCAI2C01A-rescue" part="C" description=""/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="VCAI2C01A.kicad_sch"/>
+      <property name="Sheetfile" value="VCAI2C01.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-000057e0358b</tstamps>
     </comp>
@@ -65,7 +65,7 @@
       <footprint>Mlab_R:SMD-0805</footprint>
       <libsource lib="VCAI2C01A-rescue" part="C" description=""/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="VCAI2C01A.kicad_sch"/>
+      <property name="Sheetfile" value="VCAI2C01.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-000057e155d3</tstamps>
     </comp>
@@ -74,7 +74,7 @@
       <footprint>Mlab_R:SMD-0805</footprint>
       <libsource lib="VCAI2C01A-rescue" part="C" description=""/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="VCAI2C01A.kicad_sch"/>
+      <property name="Sheetfile" value="VCAI2C01.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-000057dfd96c</tstamps>
     </comp>
@@ -83,7 +83,7 @@
       <footprint>Mlab_R:SMD-0805</footprint>
       <libsource lib="VCAI2C01A-rescue" part="C" description=""/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="VCAI2C01A.kicad_sch"/>
+      <property name="Sheetfile" value="VCAI2C01.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-000057e035d5</tstamps>
     </comp>
@@ -92,7 +92,7 @@
       <footprint>Mlab_R:SMD-0805</footprint>
       <libsource lib="VCAI2C01A-rescue" part="C" description=""/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="VCAI2C01A.kicad_sch"/>
+      <property name="Sheetfile" value="VCAI2C01.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-000057e04e89</tstamps>
     </comp>
@@ -101,7 +101,7 @@
       <footprint>Mlab_R:SMD-0805</footprint>
       <libsource lib="VCAI2C01A-rescue" part="C" description=""/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="VCAI2C01A.kicad_sch"/>
+      <property name="Sheetfile" value="VCAI2C01.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-000057e04f18</tstamps>
     </comp>
@@ -110,7 +110,7 @@
       <footprint>Mlab_R:SMD-0805</footprint>
       <libsource lib="VCAI2C01A-rescue" part="C" description=""/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="VCAI2C01A.kicad_sch"/>
+      <property name="Sheetfile" value="VCAI2C01.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-000057e04ed3</tstamps>
     </comp>
@@ -119,7 +119,7 @@
       <footprint>Mlab_R:SMD-0805</footprint>
       <libsource lib="VCAI2C01A-rescue" part="C" description=""/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="VCAI2C01A.kicad_sch"/>
+      <property name="Sheetfile" value="VCAI2C01.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-000057e04f62</tstamps>
     </comp>
@@ -128,7 +128,7 @@
       <footprint>Mlab_R:SMD-0805</footprint>
       <libsource lib="VCAI2C01A-rescue" part="C" description=""/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="VCAI2C01A.kicad_sch"/>
+      <property name="Sheetfile" value="VCAI2C01.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-000057dfe0e2</tstamps>
     </comp>
@@ -137,7 +137,7 @@
       <footprint>Mlab_D:Diode-MiniMELF_Standard</footprint>
       <libsource lib="VCAI2C01A-rescue" part="DIODE" description=""/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="VCAI2C01A.kicad_sch"/>
+      <property name="Sheetfile" value="VCAI2C01.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-000057d26757</tstamps>
     </comp>
@@ -146,7 +146,7 @@
       <footprint>Mlab_D:MiniMELF_Standard</footprint>
       <libsource lib="VCAI2C01A-rescue" part="D_Schottky" description=""/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="VCAI2C01A.kicad_sch"/>
+      <property name="Sheetfile" value="VCAI2C01.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-000057df9ef6</tstamps>
     </comp>
@@ -155,7 +155,7 @@
       <footprint>Mlab_D:MiniMELF_Standard</footprint>
       <libsource lib="VCAI2C01A-rescue" part="D_Schottky" description=""/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="VCAI2C01A.kicad_sch"/>
+      <property name="Sheetfile" value="VCAI2C01.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-000057e03591</tstamps>
     </comp>
@@ -164,7 +164,7 @@
       <footprint>Mlab_D:MiniMELF_Standard</footprint>
       <libsource lib="VCAI2C01A-rescue" part="D_Schottky" description=""/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="VCAI2C01A.kicad_sch"/>
+      <property name="Sheetfile" value="VCAI2C01.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-000057df9f75</tstamps>
     </comp>
@@ -173,7 +173,7 @@
       <footprint>Mlab_D:MiniMELF_Standard</footprint>
       <libsource lib="VCAI2C01A-rescue" part="D_Schottky" description=""/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="VCAI2C01A.kicad_sch"/>
+      <property name="Sheetfile" value="VCAI2C01.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-000057e03597</tstamps>
     </comp>
@@ -182,7 +182,7 @@
       <footprint>Mlab_D:MiniMELF_Standard</footprint>
       <libsource lib="VCAI2C01A-rescue" part="D_Schottky" description=""/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="VCAI2C01A.kicad_sch"/>
+      <property name="Sheetfile" value="VCAI2C01.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-000057e04e8f</tstamps>
     </comp>
@@ -191,7 +191,7 @@
       <footprint>Mlab_D:MiniMELF_Standard</footprint>
       <libsource lib="VCAI2C01A-rescue" part="D_Schottky" description=""/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="VCAI2C01A.kicad_sch"/>
+      <property name="Sheetfile" value="VCAI2C01.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-000057e04f1e</tstamps>
     </comp>
@@ -200,7 +200,7 @@
       <footprint>Mlab_D:MiniMELF_Standard</footprint>
       <libsource lib="VCAI2C01A-rescue" part="D_Schottky" description=""/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="VCAI2C01A.kicad_sch"/>
+      <property name="Sheetfile" value="VCAI2C01.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-000057e04e95</tstamps>
     </comp>
@@ -209,7 +209,7 @@
       <footprint>Mlab_D:MiniMELF_Standard</footprint>
       <libsource lib="VCAI2C01A-rescue" part="D_Schottky" description=""/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="VCAI2C01A.kicad_sch"/>
+      <property name="Sheetfile" value="VCAI2C01.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-000057e04f24</tstamps>
     </comp>
@@ -218,7 +218,7 @@
       <footprint>Mlab_Pin_Headers:Straight_1x02</footprint>
       <libsource lib="VCAI2C01A-rescue" part="CONN_2" description=""/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="VCAI2C01A.kicad_sch"/>
+      <property name="Sheetfile" value="VCAI2C01.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-000057dfa909</tstamps>
     </comp>
@@ -227,7 +227,7 @@
       <footprint>Mlab_Pin_Headers:Straight_2x01</footprint>
       <libsource lib="VCAI2C01A-rescue" part="JUMP_2x1" description=""/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="VCAI2C01A.kicad_sch"/>
+      <property name="Sheetfile" value="VCAI2C01.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-000057e18cb4</tstamps>
     </comp>
@@ -236,7 +236,7 @@
       <footprint>Mlab_Pin_Headers:Straight_1x02</footprint>
       <libsource lib="VCAI2C01A-rescue" part="CONN_2" description=""/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="VCAI2C01A.kicad_sch"/>
+      <property name="Sheetfile" value="VCAI2C01.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-000057e035a3</tstamps>
     </comp>
@@ -245,7 +245,7 @@
       <footprint>Mlab_Pin_Headers:Straight_1x02</footprint>
       <libsource lib="VCAI2C01A-rescue" part="JUMP_2x1" description=""/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="VCAI2C01A.kicad_sch"/>
+      <property name="Sheetfile" value="VCAI2C01.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-000057e18c0c</tstamps>
     </comp>
@@ -254,7 +254,7 @@
       <footprint>Mlab_Pin_Headers:Straight_1x02</footprint>
       <libsource lib="VCAI2C01A-rescue" part="CONN_2" description=""/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="VCAI2C01A.kicad_sch"/>
+      <property name="Sheetfile" value="VCAI2C01.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-000057e04ea1</tstamps>
     </comp>
@@ -263,7 +263,7 @@
       <footprint>Mlab_Pin_Headers:Straight_1x02</footprint>
       <libsource lib="VCAI2C01A-rescue" part="JUMP_2x1" description=""/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="VCAI2C01A.kicad_sch"/>
+      <property name="Sheetfile" value="VCAI2C01.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-000057e01956</tstamps>
     </comp>
@@ -272,7 +272,7 @@
       <footprint>Mlab_Pin_Headers:Straight_1x02</footprint>
       <libsource lib="VCAI2C01A-rescue" part="CONN_2" description=""/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="VCAI2C01A.kicad_sch"/>
+      <property name="Sheetfile" value="VCAI2C01.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-000057e04f30</tstamps>
     </comp>
@@ -281,7 +281,7 @@
       <footprint>Mlab_Pin_Headers:Straight_1x02</footprint>
       <libsource lib="VCAI2C01A-rescue" part="JUMP_2x1" description=""/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="VCAI2C01A.kicad_sch"/>
+      <property name="Sheetfile" value="VCAI2C01.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-000057e02579</tstamps>
     </comp>
@@ -290,7 +290,7 @@
       <footprint>Mlab_Pin_Headers:Straight_2x01</footprint>
       <libsource lib="VCAI2C01A-rescue" part="JUMP2_2x1" description=""/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="VCAI2C01A.kicad_sch"/>
+      <property name="Sheetfile" value="VCAI2C01.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-000057e2013f</tstamps>
     </comp>
@@ -299,7 +299,7 @@
       <footprint>Mlab_Pin_Headers:Straight_2x01</footprint>
       <libsource lib="VCAI2C01A-rescue" part="JUMP2_2x1" description=""/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="VCAI2C01A.kicad_sch"/>
+      <property name="Sheetfile" value="VCAI2C01.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-000057e20487</tstamps>
     </comp>
@@ -308,7 +308,7 @@
       <footprint>Mlab_Pin_Headers:Straight_2x05</footprint>
       <libsource lib="VCAI2C01A-rescue" part="JUMP_5X2" description=""/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="VCAI2C01A.kicad_sch"/>
+      <property name="Sheetfile" value="VCAI2C01.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-000057e1682d</tstamps>
     </comp>
@@ -317,7 +317,7 @@
       <footprint>Mlab_Pin_Headers:Straight_1x02</footprint>
       <libsource lib="VCAI2C01A-rescue" part="JUMP_2x1" description=""/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="VCAI2C01A.kicad_sch"/>
+      <property name="Sheetfile" value="VCAI2C01.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-000057e12e83</tstamps>
     </comp>
@@ -326,7 +326,7 @@
       <footprint>Mlab_Pin_Headers:Straight_1x02</footprint>
       <libsource lib="VCAI2C01A-rescue" part="JUMP_2x1" description=""/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="VCAI2C01A.kicad_sch"/>
+      <property name="Sheetfile" value="VCAI2C01.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-000057e06d8b</tstamps>
     </comp>
@@ -335,7 +335,7 @@
       <footprint>Mlab_Pin_Headers:Straight_1x02</footprint>
       <libsource lib="VCAI2C01A-rescue" part="JUMP_2x1" description=""/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="VCAI2C01A.kicad_sch"/>
+      <property name="Sheetfile" value="VCAI2C01.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-000057e07760</tstamps>
     </comp>
@@ -344,7 +344,7 @@
       <footprint>Mlab_Pin_Headers:Straight_1x02</footprint>
       <libsource lib="VCAI2C01A-rescue" part="JUMP_2x1" description=""/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="VCAI2C01A.kicad_sch"/>
+      <property name="Sheetfile" value="VCAI2C01.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-000057e14a63</tstamps>
     </comp>
@@ -353,7 +353,7 @@
       <footprint>Mlab_Pin_Headers:Straight_1x02</footprint>
       <libsource lib="VCAI2C01A-rescue" part="JUMP_2x1" description=""/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="VCAI2C01A.kicad_sch"/>
+      <property name="Sheetfile" value="VCAI2C01.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-000057e0916a</tstamps>
     </comp>
@@ -362,7 +362,7 @@
       <footprint>Mlab_Pin_Headers:Straight_1x02</footprint>
       <libsource lib="VCAI2C01A-rescue" part="JUMP_2x1" description=""/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="VCAI2C01A.kicad_sch"/>
+      <property name="Sheetfile" value="VCAI2C01.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-000057e09722</tstamps>
     </comp>
@@ -371,7 +371,7 @@
       <footprint>Mlab_Pin_Headers:Straight_1x02</footprint>
       <libsource lib="VCAI2C01A-rescue" part="JUMP_2x1" description=""/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="VCAI2C01A.kicad_sch"/>
+      <property name="Sheetfile" value="VCAI2C01.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-000057e16891</tstamps>
     </comp>
@@ -380,7 +380,7 @@
       <footprint>Mlab_Pin_Headers:Straight_1x02</footprint>
       <libsource lib="VCAI2C01A-rescue" part="JUMP_2x1" description=""/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="VCAI2C01A.kicad_sch"/>
+      <property name="Sheetfile" value="VCAI2C01.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-000057e0ac34</tstamps>
     </comp>
@@ -389,7 +389,7 @@
       <footprint>Mlab_Pin_Headers:Straight_1x02</footprint>
       <libsource lib="VCAI2C01A-rescue" part="JUMP_2x1" description=""/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="VCAI2C01A.kicad_sch"/>
+      <property name="Sheetfile" value="VCAI2C01.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-000057e0b0b5</tstamps>
     </comp>
@@ -398,7 +398,7 @@
       <footprint>Mlab_Pin_Headers:Straight_1x02</footprint>
       <libsource lib="VCAI2C01A-rescue" part="JUMP_2x1" description=""/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="VCAI2C01A.kicad_sch"/>
+      <property name="Sheetfile" value="VCAI2C01.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-000057e15b94</tstamps>
     </comp>
@@ -407,7 +407,7 @@
       <footprint>Mlab_R:SMD-0805</footprint>
       <libsource lib="VCAI2C01A-rescue" part="INDUCTOR_SMALL" description=""/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="VCAI2C01A.kicad_sch"/>
+      <property name="Sheetfile" value="VCAI2C01.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-000057e948dc</tstamps>
     </comp>
@@ -416,7 +416,7 @@
       <footprint>Mlab_Mechanical:MountingHole_3mm</footprint>
       <libsource lib="VCAI2C01A-rescue" part="HOLE" description=""/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="VCAI2C01A.kicad_sch"/>
+      <property name="Sheetfile" value="VCAI2C01.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-000057d299a2</tstamps>
     </comp>
@@ -425,7 +425,7 @@
       <footprint>Mlab_Mechanical:MountingHole_3mm</footprint>
       <libsource lib="VCAI2C01A-rescue" part="HOLE" description=""/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="VCAI2C01A.kicad_sch"/>
+      <property name="Sheetfile" value="VCAI2C01.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-000057d2a387</tstamps>
     </comp>
@@ -434,7 +434,7 @@
       <footprint>Mlab_Mechanical:MountingHole_3mm</footprint>
       <libsource lib="VCAI2C01A-rescue" part="HOLE" description=""/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="VCAI2C01A.kicad_sch"/>
+      <property name="Sheetfile" value="VCAI2C01.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-000057d2a075</tstamps>
     </comp>
@@ -443,7 +443,7 @@
       <footprint>Mlab_Mechanical:MountingHole_3mm</footprint>
       <libsource lib="VCAI2C01A-rescue" part="HOLE" description=""/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="VCAI2C01A.kicad_sch"/>
+      <property name="Sheetfile" value="VCAI2C01.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-000057d2a395</tstamps>
     </comp>
@@ -452,7 +452,7 @@
       <footprint>Mlab_R:SMD-1206</footprint>
       <libsource lib="VCAI2C01A-rescue" part="R" description=""/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="VCAI2C01A.kicad_sch"/>
+      <property name="Sheetfile" value="VCAI2C01.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-000057dfa8b7</tstamps>
     </comp>
@@ -461,7 +461,7 @@
       <footprint>Mlab_R:SMD-1206</footprint>
       <libsource lib="VCAI2C01A-rescue" part="R" description=""/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="VCAI2C01A.kicad_sch"/>
+      <property name="Sheetfile" value="VCAI2C01.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-000057e0359d</tstamps>
     </comp>
@@ -470,7 +470,7 @@
       <footprint>Mlab_R:SMD-0805</footprint>
       <libsource lib="VCAI2C01A-rescue" part="R" description=""/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="VCAI2C01A.kicad_sch"/>
+      <property name="Sheetfile" value="VCAI2C01.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-000057df9ba4</tstamps>
     </comp>
@@ -479,7 +479,7 @@
       <footprint>Mlab_R:SMD-0805</footprint>
       <libsource lib="VCAI2C01A-rescue" part="R" description=""/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="VCAI2C01A.kicad_sch"/>
+      <property name="Sheetfile" value="VCAI2C01.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-000057df9c1f</tstamps>
     </comp>
@@ -488,7 +488,7 @@
       <footprint>Mlab_R:SMD-0805</footprint>
       <libsource lib="VCAI2C01A-rescue" part="R" description=""/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="VCAI2C01A.kicad_sch"/>
+      <property name="Sheetfile" value="VCAI2C01.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-000057e03579</tstamps>
     </comp>
@@ -497,7 +497,7 @@
       <footprint>Mlab_R:SMD-0805</footprint>
       <libsource lib="VCAI2C01A-rescue" part="R" description=""/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="VCAI2C01A.kicad_sch"/>
+      <property name="Sheetfile" value="VCAI2C01.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-000057e0357f</tstamps>
     </comp>
@@ -506,7 +506,7 @@
       <footprint>Mlab_R:SMD-0805</footprint>
       <libsource lib="VCAI2C01A-rescue" part="R" description=""/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="VCAI2C01A.kicad_sch"/>
+      <property name="Sheetfile" value="VCAI2C01.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-000057df9e29</tstamps>
     </comp>
@@ -515,7 +515,7 @@
       <footprint>Mlab_R:SMD-0805</footprint>
       <libsource lib="VCAI2C01A-rescue" part="R" description=""/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="VCAI2C01A.kicad_sch"/>
+      <property name="Sheetfile" value="VCAI2C01.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-000057e03585</tstamps>
     </comp>
@@ -524,7 +524,7 @@
       <footprint>Mlab_R:SMD-0805</footprint>
       <libsource lib="VCAI2C01A-rescue" part="R" description=""/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="VCAI2C01A.kicad_sch"/>
+      <property name="Sheetfile" value="VCAI2C01.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-000057dfd8b1</tstamps>
     </comp>
@@ -533,7 +533,7 @@
       <footprint>Mlab_R:SMD-0805</footprint>
       <libsource lib="VCAI2C01A-rescue" part="R" description=""/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="VCAI2C01A.kicad_sch"/>
+      <property name="Sheetfile" value="VCAI2C01.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-000057e035cf</tstamps>
     </comp>
@@ -542,7 +542,7 @@
       <footprint>Mlab_R:SMD-1206</footprint>
       <libsource lib="VCAI2C01A-rescue" part="R" description=""/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="VCAI2C01A.kicad_sch"/>
+      <property name="Sheetfile" value="VCAI2C01.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-000057e04e9b</tstamps>
     </comp>
@@ -551,7 +551,7 @@
       <footprint>Mlab_R:SMD-1206</footprint>
       <libsource lib="VCAI2C01A-rescue" part="R" description=""/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="VCAI2C01A.kicad_sch"/>
+      <property name="Sheetfile" value="VCAI2C01.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-000057e04f2a</tstamps>
     </comp>
@@ -560,7 +560,7 @@
       <footprint>Mlab_R:SMD-0805</footprint>
       <libsource lib="VCAI2C01A-rescue" part="R" description=""/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="VCAI2C01A.kicad_sch"/>
+      <property name="Sheetfile" value="VCAI2C01.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-000057e04e77</tstamps>
     </comp>
@@ -569,7 +569,7 @@
       <footprint>Mlab_R:SMD-0805</footprint>
       <libsource lib="VCAI2C01A-rescue" part="R" description=""/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="VCAI2C01A.kicad_sch"/>
+      <property name="Sheetfile" value="VCAI2C01.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-000057e04e7d</tstamps>
     </comp>
@@ -578,7 +578,7 @@
       <footprint>Mlab_R:SMD-0805</footprint>
       <libsource lib="VCAI2C01A-rescue" part="R" description=""/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="VCAI2C01A.kicad_sch"/>
+      <property name="Sheetfile" value="VCAI2C01.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-000057e04f06</tstamps>
     </comp>
@@ -587,7 +587,7 @@
       <footprint>Mlab_R:SMD-0805</footprint>
       <libsource lib="VCAI2C01A-rescue" part="R" description=""/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="VCAI2C01A.kicad_sch"/>
+      <property name="Sheetfile" value="VCAI2C01.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-000057e04f0c</tstamps>
     </comp>
@@ -596,7 +596,7 @@
       <footprint>Mlab_R:SMD-0805</footprint>
       <libsource lib="VCAI2C01A-rescue" part="R" description=""/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="VCAI2C01A.kicad_sch"/>
+      <property name="Sheetfile" value="VCAI2C01.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-000057e04e83</tstamps>
     </comp>
@@ -605,7 +605,7 @@
       <footprint>Mlab_R:SMD-0805</footprint>
       <libsource lib="VCAI2C01A-rescue" part="R" description=""/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="VCAI2C01A.kicad_sch"/>
+      <property name="Sheetfile" value="VCAI2C01.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-000057e04f12</tstamps>
     </comp>
@@ -614,7 +614,7 @@
       <footprint>Mlab_R:SMD-0805</footprint>
       <libsource lib="VCAI2C01A-rescue" part="R" description=""/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="VCAI2C01A.kicad_sch"/>
+      <property name="Sheetfile" value="VCAI2C01.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-000057e04ecd</tstamps>
     </comp>
@@ -623,7 +623,7 @@
       <footprint>Mlab_R:SMD-0805</footprint>
       <libsource lib="VCAI2C01A-rescue" part="R" description=""/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="VCAI2C01A.kicad_sch"/>
+      <property name="Sheetfile" value="VCAI2C01.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-000057e04f5c</tstamps>
     </comp>
@@ -632,7 +632,7 @@
       <footprint>Mlab_R:SMD-0805</footprint>
       <libsource lib="VCAI2C01A-rescue" part="R" description=""/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="VCAI2C01A.kicad_sch"/>
+      <property name="Sheetfile" value="VCAI2C01.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-000057e20f2c</tstamps>
     </comp>
@@ -641,7 +641,7 @@
       <footprint>Mlab_R:SMD-0805</footprint>
       <libsource lib="VCAI2C01A-rescue" part="R" description=""/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="VCAI2C01A.kicad_sch"/>
+      <property name="Sheetfile" value="VCAI2C01.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-000057e21642</tstamps>
     </comp>
@@ -650,7 +650,7 @@
       <footprint>Mlab_R:SMD-0805</footprint>
       <libsource lib="VCAI2C01A-rescue" part="R" description=""/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="VCAI2C01A.kicad_sch"/>
+      <property name="Sheetfile" value="VCAI2C01.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-000057e1c677</tstamps>
     </comp>
@@ -659,7 +659,7 @@
       <footprint>Mlab_R:SMD-0805</footprint>
       <libsource lib="VCAI2C01A-rescue" part="R" description=""/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="VCAI2C01A.kicad_sch"/>
+      <property name="Sheetfile" value="VCAI2C01.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-000057e1cf0c</tstamps>
     </comp>
@@ -668,7 +668,7 @@
       <footprint>Mlab_IO:SOIC-8_3.9x4.9mm_Pitch1.27mm</footprint>
       <libsource lib="VCAI2C01A-rescue" part="TLC27L2ID" description=""/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="VCAI2C01A.kicad_sch"/>
+      <property name="Sheetfile" value="VCAI2C01.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-000057df8706 00000000-0000-0000-0000-000057df8591</tstamps>
     </comp>
@@ -677,7 +677,7 @@
       <footprint>Mlab_IO:SOIC-8_3.9x4.9mm_Pitch1.27mm</footprint>
       <libsource lib="VCAI2C01A-rescue" part="TLC27L2ID" description=""/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="VCAI2C01A.kicad_sch"/>
+      <property name="Sheetfile" value="VCAI2C01.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-000057e077f9 00000000-0000-0000-0000-000057e04e6b</tstamps>
     </comp>
@@ -686,7 +686,7 @@
       <footprint>Mlab_IO:SOIC-14</footprint>
       <libsource lib="VCAI2C01A-rescue" part="MCP3424" description=""/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="VCAI2C01A.kicad_sch"/>
+      <property name="Sheetfile" value="VCAI2C01.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-000057e0aa2a</tstamps>
     </comp>
