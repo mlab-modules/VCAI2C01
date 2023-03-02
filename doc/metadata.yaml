@@ -1,0 +1,23 @@
+description: voltage and current measuring ADC with I2C interface
+github_branch: VCAI2C01A
+github_repo: VCAI2C01
+github_url: https://github.com/mlab-modules/VCAI2C01
+homepage: false
+images:
+- doc/img/VCAI2C01A_small.jpg
+- doc/img/VCAI2C01A_QRcode.png
+- doc/gen/img/VCAI2C01A-bottom.png
+- doc/gen/img/VCAI2C01-bottom.png
+- doc/gen/img/VCAI2C01A-top.png
+- doc/gen/img/VCAI2C01-top.png
+- doc/gen/VCAI2C01-schematic.svg
+- doc/gen/VCAI2C01A-schematic.svg
+mark: 50
+mod_scheme: doc/gen/VCAI2C01A-schematic.pdf
+tags:
+- current-sensor
+- i2c
+- i2c-sensors
+- power-monitor
+- voltage-sensor
+title: VCAI2C01
