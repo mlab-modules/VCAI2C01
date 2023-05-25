@@ -1,17 +1,21 @@
 description: voltage and current measuring ADC with I2C interface
 github_branch: VCAI2C01A
+github_branches:
+- VCAI2C01A
 github_repo: VCAI2C01
 github_url: https://github.com/mlab-modules/VCAI2C01
 homepage: false
+image: doc/img/VCAI2C01A_small.jpg
 images:
 - doc/img/VCAI2C01A_small.jpg
 - doc/img/VCAI2C01A_QRcode.png
-- doc/gen/img/VCAI2C01-bottom.png
 - doc/gen/img/VCAI2C01-top.png
-- doc/gen/VCAI2C01-schematic.svg
-- doc/gen/img/VCAI2C01-top.svg
+- doc/gen/img/VCAI2C01-bottom.png
 - hw/cam_profi/docs/VCAI2C01A-assembly_page_01.svg
 - hw/cam_profi/docs/VCAI2C01A-assembly_page_02.svg
+- doc/gen/VCAI2C01-schematic.svg
+- doc/gen/img/VCAI2C01-top.svg
+issues: 0
 mark: 50
 mod_ibom: hw/cam_profi/ibom/VCAI2C01-ibom.html
 mod_scheme: doc/gen/VCAI2C01-schematic.pdf
