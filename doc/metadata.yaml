@@ -14,6 +14,7 @@ images:
 - hw/cam_profi/docs/VCAI2C01A-assembly_page_01.svg
 - hw/cam_profi/docs/VCAI2C01A-assembly_page_02.svg
 - doc/gen/VCAI2C01-schematic.svg
+- doc/gen/img/VCAI2C01-bottom.svg
 - doc/gen/img/VCAI2C01-top.svg
 issues: 0
 mark: 50
