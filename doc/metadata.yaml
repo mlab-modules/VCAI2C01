@@ -5,7 +5,7 @@ github_branches:
 github_repo: VCAI2C01
 github_url: https://github.com/mlab-modules/VCAI2C01
 homepage: false
-image: doc/img/VCAI2C01A_small.jpg
+title-image: doc/img/VCAI2C01A_small.jpg
 images:
 - doc/img/VCAI2C01A_small.jpg
 - doc/img/VCAI2C01A_QRcode.png
