@@ -7,12 +7,12 @@ github_url: https://github.com/mlab-modules/VCAI2C01
 homepage: false
 images:
 - doc/img/VCAI2C01A_small.jpg
-- doc/img/VCAI2C01A_QRcode.png
 - doc/gen/img/VCAI2C01-top.png
 - doc/gen/img/VCAI2C01-bottom.png
+- doc/img/VCAI2C01A_QRcode.png
 - doc/gen/VCAI2C01-schematic.svg
-- doc/gen/img/VCAI2C01-bottom.svg
 - doc/gen/img/VCAI2C01-top.svg
+- doc/gen/img/VCAI2C01-bottom.svg
 - hw/cam_profi/assembly/VCAI2C01-assembly_page_02.svg
 - hw/cam_profi/assembly/VCAI2C01-assembly_page_01.svg
 issues: 0
@@ -34,4 +34,4 @@ tags:
 - pcb
 title: VCAI2C01
 title-image: doc/img/VCAI2C01A_small.jpg
-updated: '2023-07-21T03:39:21.081362+00:00'
+updated: '2023-09-11T00:44:34.075813+00:00'
