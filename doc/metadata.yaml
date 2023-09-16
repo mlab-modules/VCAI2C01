@@ -19,6 +19,7 @@ issues: 0
 mark: 50
 mod_ibom: hw/cam_profi/VCAI2C01-ibom.html
 mod_scheme: doc/gen/VCAI2C01-schematic.pdf
+status: 0
 tags:
 - current-sensor
 - i2c
