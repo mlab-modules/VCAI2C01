@@ -2,6 +2,7 @@ description: voltage and current measuring ADC with I2C interface
 github_branch: VCAI2C01A
 github_branches:
 - VCAI2C01A
+github_description: voltage and current measuring ADC with I2C interface
 github_repo: VCAI2C01
 github_url: https://github.com/mlab-modules/VCAI2C01
 homepage: false
@@ -36,4 +37,4 @@ tags:
 - pcb
 title: VCAI2C01
 title-image: doc/img/VCAI2C01A_small.jpg
-updated: '2023-09-17T07:23:45.574370+00:00'
+updated: '2023-09-17T11:30:06.343357+00:00'
